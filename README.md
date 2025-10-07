@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W8GOD&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arnon-aroon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <hr/>
@@ -81,13 +81,13 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W8GOD&theme=algolia&hide_border=true&border_radius=6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnon-aroon&theme=algolia&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </p>
 <br>
 <p align="center">
-  <img alt="Arnon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=W8GOD&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=6" height="192px"/>
+  <img alt="Arnon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnon-aroon&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=6" height="192px"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W8GOD&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&border_radius=6" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnon-aroon&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&border_radius=6" alt="Top Languages" height="192px"/>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -102,7 +102,7 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
-<a href="https://github.com/W8GOD">
+<a href="https://github.com/arnon-aroon">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
