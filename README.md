@@ -1,115 +1,103 @@
+<div align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Arnon Bond Aroondech — Mobile Engineer, AI and Product Builder" />
 
-<h1 align="center">Hi there, I'm Arnon Aroondech <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <br />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=3DEAF7&center=true&vCenter=true&width=550&height=50&lines=Lead+Software+Engineer;Android+%26+Flutter+Specialist;AI+%26+Automation+Advocate">
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/arnon-aroondech"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/arnon-aroon?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Repositories-182235?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arnon-aroon&style=for-the-badge&color=25b4bd&label=PROFILE+VIEWS" alt="Profile view count" />
+</div>
 
-<p align="center">
-  As the <strong>Lead Android Engineer at Central Retail Digital</strong>, I specialize in architecting and delivering high-quality mobile experiences.
-  <br>
-  My focus is on building scalable applications, leveraging AI for intelligent features, and promoting engineering excellence within my team.
-</p>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnon-aroon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+### Hey, I'm Bond 👋
 
-<hr/>
+I'm a **mobile engineer and product-minded builder** based in Bangkok, Thailand. My day-to-day world revolves around **Flutter, Android, clean architecture, and shipping reliable experiences**. I enjoy connecting engineering discipline with a curiosity for design, AI, and practical automation.
 
-<h2 align="center">💡 Core Competencies & Tech Stack</h2>
+I work on mobile experiences at **Central Retail Digital**. Outside of that, I like building small products, exploring financial technology, and finding smarter ways for developers to work.
+
+> I care about the little things: a smooth interaction, a tricky edge case, a reproducible bug, and that satisfying moment when everything finally clicks.
+
+### ⚡ What I love building
 
 <table>
   <tr>
-    <td align="center"><strong>📱 Mobile Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    <td width="33%" valign="top"><b>📱 Mobile that feels right</b><br /><br />Flutter and native Android experiences, responsive UI, performance, stability, and thoughtful UX.</td>
+    <td width="33%" valign="top"><b>🤖 Smarter engineering</b><br /><br />AI-assisted workflows, developer tools, automation, testing, and quality gates that earn trust.</td>
+    <td width="34%" valign="top"><b>🧠 Useful little products</b><br /><br />Web apps, market-data experiments, and everyday tools that turn an idea into something people can use.</td>
+  </tr>
+</table>
+
+### 🧰 My toolkit
+
+**Mobile & UI**
+
+![Flutter](https://img.shields.io/badge/Flutter-0B749C?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-287D50?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7146C6?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B77CD?style=flat-square&logo=jetpackcompose&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-202938?style=flat-square&logo=apple&logoColor=white)
+
+**Web, data & automation**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2563A6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1C2433?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2A6399?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-CA7A06?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-238966?style=flat-square&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-205EA6?style=flat-square&logo=githubactions&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-Mobile_QA-704ED3?style=flat-square)
+
+### 🚀 Selected public projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/arnon-aroon/market-radar">Market Radar</a></h3>
+      A Thai-time dashboard for US market and Bitcoin events, with a searchable calendar, notes, and offline-friendly PWA features.<br /><br />
+      <code>Market data</code> <code>PWA</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍱 <a href="https://github.com/arnon-aroon/lunch-picker">LunchDecisionStudio</a></h3>
+      A mobile-first lunch picker that helps teams decide where to eat, with walking-distance preferences.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🤖 AI & Machine Learning</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+    <td width="50%" valign="top">
+      <h3>🪙 <a href="https://github.com/arnon-aroon/SemiCrypto">SemiCrypto</a></h3>
+      An Android cryptocurrency explorer built around modular MVVM, Jetpack Compose, and paginated data.<br /><br />
+      <code>Kotlin</code> <code>Jetpack Compose</code> <code>Android</code>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>⚙️ CI/CD & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white" alt="Bitrise"/>
-      <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
-      <img src="https://img.shields.io/badge/TeamCity-1C1C1C?style=for-the-badge&logo=teamcity&logoColor=white" alt="TeamCity"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>☁️ Cloud & Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Room-DB-65B252?style=for-the-badge&logoColor=white" alt="RoomDB"/>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🛠️ IDEs & Design Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cursor-IDE-173344?style=for-the-badge&logoColor=white" alt="Cursor IDE"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/arnon-aroon/flutter-my-portfolio">Flutter Portfolio</a></h3>
+      A personal portfolio experiment built with Flutter — bringing mobile UI ideas to the web.<br /><br />
+      <code>Flutter</code> <code>Dart</code> <code>Web</code>
     </td>
   </tr>
 </table>
 
-<hr/>
+<div align="center">
+  <a href="https://github.com/arnon-aroon?tab=repositories"><b>See more of my public work →</b></a>
+</div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+### 🌌 Currently curious about
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnon-aroon&theme=algolia&hide_border=true&border_radius=6" alt="GitHub Streak" />
-</p>
-<br>
-<p align="center">
-  <img alt="Arnon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnon-aroon&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=6" height="192px"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnon-aroon&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&border_radius=6" alt="Top Languages" height="192px"/>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br>
+<code>AI agents &amp; developer workflows</code> · <code>Mobile QA &amp; automation</code> · <code>Fintech &amp; market intelligence</code> · <code>Developer experience</code> · <code>Creative product design</code>
 
-<hr/>
+### 📊 GitHub activity
 
-<h2 align="center">🔗 Let's Connect</h2>
-<p align="center">
- 
-<a href="https://www.linkedin.com/in/arnon-aroondech">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/arnon-aroon">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnon-aroon&show_icons=true&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&icon_color=A58BFA&rank_icon=github" alt="GitHub contribution statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnon-aroon&layout=compact&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&langs_count=6" alt="Languages used in public repositories" />
+</div>
 
-</p>
+<sub>Language percentages describe public repository code, not proficiency. Third-party stat cards may occasionally be unavailable.</sub>
 
+<br />
+<br />
 
-
-
-
-
+<div align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="Stay curious, build thoughtfully, keep shipping" />
+</div>
