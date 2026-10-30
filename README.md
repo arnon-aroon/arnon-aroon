@@ -89,11 +89,11 @@ I work on mobile experiences at **Central Retail Digital**. Outside of that, I l
 ### 📊 GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnon-aroon&show_icons=true&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&icon_color=A58BFA&rank_icon=github" alt="GitHub contribution statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnon-aroon&layout=compact&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&langs_count=6" alt="Languages used in public repositories" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=arnon-aroon&show_icons=true&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&icon_color=A58BFA&rank_icon=github" alt="GitHub contribution statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arnon-aroon&layout=compact&hide_border=true&bg_color=0D1526&title_color=76E4EA&text_color=DAE5F6&langs_count=6" alt="Languages used in public repositories" />
 </div>
 
-<sub>Language percentages describe public repository code, not proficiency. Third-party stat cards may occasionally be unavailable.</sub>
+<sub>Language percentages describe public repository code, not proficiency. The live cards are provided by a third-party service; if temporarily unavailable, <a href="https://github.com/arnon-aroon?tab=overview">view my GitHub activity directly</a>.</sub>
 
 <br />
 <br />
